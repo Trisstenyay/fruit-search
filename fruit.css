@@ -11,13 +11,11 @@
     align-items: center;
     height: 100vh;
     background-image: repeating-radial-gradient(red, blue);
-
 }
 
 
 .search-container{
     position: relative;
-    width: 300px;
  }
 
 
